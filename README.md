@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harrison Hassig</h1>
-<h3 align="center">Motivated full-stack developer seeking remote work</h3>
+<h3 align="center">Coffee-fueled full-stack developer seeking remote work</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hhassig&label=Profile%20views&color=0e75b6&style=flat" alt="hhassig" /> </p>
 
