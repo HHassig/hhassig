@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Harrison Hassig</h1>
 <h3 align="center">Motivated full-stack developer seeking remote work</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hhassig" alt="hhassig" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hhassig&label=Profile%20views&color=0e75b6&style=flat" alt="hhassig" /> </p>
 
-- 🔭 I’m currently working on [Where 2 Work](where2work.es)
+- ☕ I’m currently working on [Where 2 Work](where2work.es)
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👯 I’m looking to collaborate on [iaeCalc - Icarus Project](https://iae-calc.fly.dev/)
+- 🤝🏽 I’m helping out with [iaeCalc - Icarus Project](https://iae-calc.fly.dev/)
 
-- Profiting on College Basketball [Chasing Chalk](hassig.com/projects/marchmadness)
+- 💸 Profiting on College Basketball [Chasing Chalk](hassig.com/projects/marchmadness)
 
 - 👨‍💻 All of my projects are available at [hassig.com/projects](hassig.com/projects)
 
