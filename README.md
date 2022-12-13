@@ -9,7 +9,7 @@
 
 - 🤝🏽 I’m helping out with [iaeCalc - Icarus Project](https://iae-calc.fly.dev/)
 
-- 💸 Profiting on College Basketball - F[Chasing Chalk](hassig.com/projects/marchmadness)
+- 💸 Profiting on College Basketball - [Chasing Chalk](hassig.com/projects/marchmadness)
 
 - 👨‍💻 All of my projects are available at [hassig.com/projects](hassig.com/projects)
 
