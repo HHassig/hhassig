@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **harrisonhassig@gmail.com**
 
-- 📄 Learn more @ [hassig.com](hassig.com)
+- 📄 Learn more @<a href="https://hassig.comv" target="_blank">hassig.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
