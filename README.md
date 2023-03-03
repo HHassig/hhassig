@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **where sports meets technology**
 
-- 📫 How to reach me **harrison@hassig.com**
+- 📫 How to reach me **harrisonhassig@gmail.com**
 
 - 📄 Learn more @ [hassig.com](hassig.com)
 
