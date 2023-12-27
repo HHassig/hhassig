@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hhassig&label=Profile%20views&color=0e75b6&style=flat" alt="hhassig" /> </p>
 
-- ☕ I’m currently working on <a href="https://stock-signals.fly.dev"  target="_blank">Noiseless Signals</a>
+- ☕ I’m currently working on <a href="https://noiselesssignals.com"  target="_blank">Noiseless Signals</a>
 
 - 🌱 I’m currently learning **ReactJS**
 
