@@ -11,7 +11,7 @@
 
 - 💸 Profiting on College Basketball - <a href="hassig.com/projects/marchmadness" target="_blank">Chasing Chalk</a>
 
-- 👨‍💻 All of my projects are available <a href="hassig.com/projects" target="_blank">here</a>
+- 👨‍💻 All of my projects are available <a href="https://hassig.com" target="_blank">here</a>
 
 - 💬 Ask me about **where sports meets technology**
 
