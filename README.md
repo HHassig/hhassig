@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 🤝🏽 I’m helping out with <a href="https://iae-calc.fly.dev" target="_blank">iaeCalc - Icarus Project</a>
+- 🤝🏽 I’m helping out with <a href="[https://iae-calc.fly.dev](https://iae-calc.hassig.com/)" target="_blank">iaeCalc - Icarus Project</a>
 
-- 💸 Profiting on College Basketball - <a href="https://hassig.com/projects/marchmadness" target="_blank">Chasing Chalk</a>
+- 💸 Profiting on College Basketball - <a href="https://mm.hassig.com" target="_blank">Chasing Chalk</a>
 
-- 👨‍💻 All of my projects are available <a href="https://hassig.com" target="_blank">here</a>
+- 👨‍💻 All of my projects are available <a href="https://hassig.com/projects" target="_blank">here</a>
 
 - 💬 Ask me about **where sports meets technology**
 
